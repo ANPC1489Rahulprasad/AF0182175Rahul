@@ -15,5 +15,14 @@ public class Area_perimeter
 		 System.out.println("Area of rectangle:"+area);
 	 }
 }
+
+
+OUTPUT :
+
+Enter length of rectangle:6
+Enter breadth of rectangle:7
+perimeter of rectangle:26
+Area of rectangle:42
+
 		 
 		 
