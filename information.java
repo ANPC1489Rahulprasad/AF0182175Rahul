@@ -1,12 +1,11 @@
 import java.util.*;
 class information{
  public static void main(string[] args){
-  System.out.println("Hello\nRahul Prasad! \nStream-Computer Science");
+  System.out.println("Hello Rahul");
  }
 }
 
 
 output :
 
-Rahul prasad
-Computer Science
+Hello Rahul
