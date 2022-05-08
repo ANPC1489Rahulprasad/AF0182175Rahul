@@ -4,3 +4,9 @@ class information{
   System.out.println("Hello\nRahul Prasad! \nStream-Computer Science");
  }
 }
+
+
+output :
+
+Rahul prasad
+Computer Science
