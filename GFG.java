@@ -9,3 +9,8 @@ class GFG {
 	}
 }
 
+
+
+output :
+
+Simple Interest = 0.08
