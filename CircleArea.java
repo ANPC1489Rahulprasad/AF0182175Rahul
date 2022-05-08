@@ -18,3 +18,11 @@ public class CircleArea{
   System.out.println("Circumference of Circle : " + circumference);
      }
  }
+
+
+output :
+
+Enter Radius of Circle:
+5
+Area of Circle: 78.539816338
+Circumference of circle: 31.415926535 
