@@ -4,7 +4,8 @@ class GFG {
     public static void main(String args[])
 	{
 	    float p = 2, R = 2, N = 2;
-		System.out.println("Simple interest = " + SI);
+	    float SI = (p * R * N) / 100;
+	    System.out.println("Simple interest = " + SI);
 		
 	}
 }
